@@ -62,7 +62,11 @@
 - Official **Rust** and **burn** documentation were helpful.
 - Understanding **dependencies and network issues** is crucial.
 
+
 ## Lessons Learned
 - Setting up Rust properly requires **Visual Studio Build Tools**.
 - **Git workflow** must be managed carefully to avoid conflicts.
+- I had no prior knowledge of Rust or Rust Rover, which made it difficult to debug errors efficiently.
+- Identifying the missing build tools was a major learning point.
+- Although I was unable to successfully complete the linear regression model, this experience provided valuable exposure to Rust, its ecosystem, and troubleshooting development environment issues
 
